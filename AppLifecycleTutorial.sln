@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLifecycleTutorial.Android", "AppLifecycleTutorial\AppLifecycleTutorial.Android\AppLifecycleTutorial.Android.csproj", "{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLifecycleTutorial", "AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial.csproj", "{745FC09B-3C43-483C-8E8C-622E911A7352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57761E47-55D0-49C7-BA2A-E1AEC9F7F441}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{745FC09B-3C43-483C-8E8C-622E911A7352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745FC09B-3C43-483C-8E8C-622E911A7352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745FC09B-3C43-483C-8E8C-622E911A7352}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{745FC09B-3C43-483C-8E8C-622E911A7352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745FC09B-3C43-483C-8E8C-622E911A7352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745FC09B-3C43-483C-8E8C-622E911A7352}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0346D927-D785-45DF-BD21-35D7BCE37773}
+	EndGlobalSection
+EndGlobal
